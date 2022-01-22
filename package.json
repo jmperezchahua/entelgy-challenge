@@ -2,9 +2,8 @@
   "name": "entelgy-challenge",
   "version": "1.0.0",
   "description": "buscador de paises",
-  "main": "src/index.js",
+  "main": "src/index.html",
   "scripts": {
-    "callback": "node ./src/data/callback.js",
     "fetch": "node ./src/data/fetch.js"
   },
   "repository": {
