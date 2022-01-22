@@ -1,0 +1,20 @@
+{
+  "name": "entelgy-challenge",
+  "version": "1.0.0",
+  "description": "buscador de paises",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node ./src/data/callback.js",
+    "fetch": "node ./src/data/fetch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmperezchahua/entelgy-challenge.git"
+  },
+  "author": "jperez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmperezchahua/entelgy-challenge/issues"
+  },
+  "homepage": "https://github.com/jmperezchahua/entelgy-challenge#readme"
+}
