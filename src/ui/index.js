@@ -14,7 +14,7 @@ const modal = (ele) => {
   `;
 };
 
-export const Card = (data) => {
+export const Cards = (data) => {
   let countries = [];
 
   if (data.length > 0) {
